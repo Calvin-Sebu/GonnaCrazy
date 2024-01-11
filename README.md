@@ -1,4 +1,5 @@
 <a>THIS IS A CODE TO FIND ROOT OF A NUMBER</a>
+### Note : this code will only run             with C++
 # copy this code
 ```
 #include <iostream>
